@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors -->
+    <color name="primary">#4CAF50</color>
+    <color name="primaryDark">#388E3C</color>
+    <color name="primaryLight">#80E27E</color>
+
+    <!-- Accent colors -->
+    <color name="accent">#FF9800</color>
+
+    <!-- Backgrounds -->
+    <color name="background">#FFFFFF</color>
+    <color name="backgroundDark">#F5F5F5</color>
+    <color name="gray">#CCCCCC</color>
+
+    <!-- Text colors -->
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="textOnPrimary">#FFFFFF</color>
+
+    <!-- Buttons -->
+    <color name="button_text">#FFFFFF</color>
+    <color name="button_background">#4CAF50</color>
+
+    <!-- Optional custom greens -->
+    <color name="primaryGreen">#4CAF50</color>
+    <color name="primaryGreenDark">#388E3C</color>
+    <color name="primaryGreenLight">#80E27E</color>
+</resources>
